@@ -19,3 +19,5 @@ Root 7'dir, 5 solunda bulunur.
 2 root'tan küçüktür, soluna bakılır, solunda 5 var, 5'ten de küçüktür, 5'in soluna bakılır 1 var, 1'in sağına bakılır 3 var, 3'ün soluna eklenir. 
 
 ![gitHub](figures/proje.png)
+
+[Patika.dev](https://app.patika.dev)
